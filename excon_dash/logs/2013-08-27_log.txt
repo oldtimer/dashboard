@@ -1,0 +1,17 @@
+2013-08-27 13:31:45 | 172.16.8.17 | Login: purchasing log-in successfull.
+2013-08-27 13:41:46 | 172.16.3.146 | Login: shyr log-in successfull.
+2013-08-27 13:47:20 | 172.16.3.146 | Logout: shyr logged out.
+2013-08-27 13:47:31 | 172.16.3.146 | Login: archie log-in failed.
+2013-08-27 13:47:46 | 172.16.3.146 | Login: archie log-in successfull.
+2013-08-27 13:48:38 | 172.16.3.146 | Logout: archie logged out.
+2013-08-27 13:48:54 | 172.16.3.146 | Login: purchasing log-in successfull.
+2013-08-27 13:54:34 | 172.16.3.146 | Logout: purchasing logged out.
+2013-08-27 13:57:10 | 172.16.3.146 | Login: shyr log-in failed.
+2013-08-27 13:57:19 | 172.16.3.146 | Login: shyr log-in successfull.
+2013-08-27 13:59:03 | 172.16.3.146 | Logout: shyr logged out.
+2013-08-27 13:59:12 | 172.16.3.146 | Login: itd log-in successfull.
+2013-08-27 13:59:49 | 172.16.3.146 | Logout: itd logged out.
+2013-08-27 14:00:02 | 172.16.3.146 | Login: acc log-in successfull.
+2013-08-27 14:00:15 | 172.16.3.146 | Logout: acc logged out.
+2013-08-27 14:00:31 | 172.16.3.146 | Login: purchasing log-in successfull.
+2013-08-27 14:03:38 | 172.16.3.146 | Logout: purchasing logged out.

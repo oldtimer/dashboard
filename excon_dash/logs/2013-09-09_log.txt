@@ -1,0 +1,9 @@
+2013-09-09 10:08:12 | 172.16.8.17 | Login: purchasing log-in successfull.
+2013-09-09 10:08:21 | 172.16.8.3 | Login: archie log-in successfull.
+2013-09-09 10:28:00 | 172.16.8.3 | Logout: archie logged out.
+2013-09-09 10:28:18 | 172.16.8.17 | Logout: purchasing logged out.
+2013-09-09 15:32:27 | 172.16.8.3 | Login: acc log-in successfull.
+2013-09-09 15:34:02 | 172.16.8.3 | Logout: acc logged out.
+2013-09-09 15:34:05 | 172.16.8.3 | Login: acc log-in successfull.
+2013-09-09 15:34:29 | 172.16.8.3 | Login: bong log-in successfull.
+2013-09-09 16:02:27 | 172.16.8.3 | Logout: bong logged out.

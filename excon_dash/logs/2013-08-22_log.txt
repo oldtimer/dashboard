@@ -1,0 +1,14 @@
+2013-08-22 08:35:01 | 172.16.8.3 | Login: bong log-in successfull.
+2013-08-22 08:39:20 | 172.16.8.3 | Logout: bong logged out.
+2013-08-22 08:39:23 | 172.16.8.3 | Login: rrls log-in successfull.
+2013-08-22 08:39:33 | 172.16.8.3 | Logout: rrls logged out.
+2013-08-22 08:39:36 | 172.16.8.3 | Login: itd log-in successfull.
+2013-08-22 08:39:41 | 172.16.8.3 | Logout: itd logged out.
+2013-08-22 08:39:44 | 172.16.8.3 | Login: archie log-in successfull.
+2013-08-22 08:40:00 | 172.16.8.3 | Logout: archie logged out.
+2013-08-22 08:40:04 | 172.16.8.3 | Login: rrls log-in successfull.
+2013-08-22 08:40:31 | 172.16.8.3 | Logout: rrls logged out.
+2013-08-22 12:58:22 | 172.16.8.17 | Login: purchasing log-in successfull.
+2013-08-22 15:42:19 | 172.16.8.17 | Login: shyr log-in successfull.
+2013-08-22 16:48:06 | 172.16.8.17 | Login: purchasing log-in successfull.
+2013-08-22 17:03:19 | 172.16.8.17 | Logout: purchasing logged out.

@@ -1,0 +1,6 @@
+2013-08-23 11:22:32 | 172.16.8.3 | Login: bong log-in failed.
+2013-08-23 11:22:36 | 172.16.8.3 | Login: bong log-in successfull.
+2013-08-23 11:23:59 | 172.16.8.3 | Logout: bong logged out.
+2013-08-23 11:24:50 | 172.16.8.3 | Login: archie log-in successfull.
+2013-08-23 11:30:31 | 172.16.8.3 | Logout: archie logged out.
+2013-08-23 11:49:53 | 172.16.8.3 | Login: bong log-in successfull.

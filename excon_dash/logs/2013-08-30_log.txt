@@ -1,0 +1,4 @@
+2013-08-30 13:10:31 | 172.16.8.17 | Login: jhomel log-in successfull.
+2013-08-30 17:04:12 | 172.16.8.17 | Logout: jhomel logged out.
+2013-08-30 17:04:20 | 172.16.8.17 | Login: jhomel log-in failed.
+2013-08-30 17:04:26 | 172.16.8.17 | Login: jhomel log-in successfull.

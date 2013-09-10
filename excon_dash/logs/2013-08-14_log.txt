@@ -1,0 +1,5 @@
+2013-08-14 15:57:52 | 172.16.8.10 | Login: shyr logged in.
+2013-08-14 15:58:24 | 172.16.8.10 | Logout: shyr logged out.
+2013-08-14 16:00:34 | 172.16.8.17 | Login: purchasing logged in.
+2013-08-14 16:06:54 | 172.16.8.17 | Login: purchasing logged in.
+2013-08-14 16:13:38 | 172.16.8.17 | Login: purchasing logged in.
